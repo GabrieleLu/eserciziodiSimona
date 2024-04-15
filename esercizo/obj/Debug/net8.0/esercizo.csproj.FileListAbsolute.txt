@@ -1,0 +1,15 @@
+c:\Users\luong\progetti\eserciziodiSimona\esercizo\bin\Debug\net8.0\esercizo.exe
+c:\Users\luong\progetti\eserciziodiSimona\esercizo\bin\Debug\net8.0\esercizo.deps.json
+c:\Users\luong\progetti\eserciziodiSimona\esercizo\bin\Debug\net8.0\esercizo.runtimeconfig.json
+c:\Users\luong\progetti\eserciziodiSimona\esercizo\bin\Debug\net8.0\esercizo.dll
+c:\Users\luong\progetti\eserciziodiSimona\esercizo\bin\Debug\net8.0\esercizo.pdb
+c:\Users\luong\progetti\eserciziodiSimona\esercizo\obj\Debug\net8.0\esercizo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\luong\progetti\eserciziodiSimona\esercizo\obj\Debug\net8.0\esercizo.AssemblyInfoInputs.cache
+c:\Users\luong\progetti\eserciziodiSimona\esercizo\obj\Debug\net8.0\esercizo.AssemblyInfo.cs
+c:\Users\luong\progetti\eserciziodiSimona\esercizo\obj\Debug\net8.0\esercizo.csproj.CoreCompileInputs.cache
+c:\Users\luong\progetti\eserciziodiSimona\esercizo\obj\Debug\net8.0\esercizo.sourcelink.json
+c:\Users\luong\progetti\eserciziodiSimona\esercizo\obj\Debug\net8.0\esercizo.dll
+c:\Users\luong\progetti\eserciziodiSimona\esercizo\obj\Debug\net8.0\refint\esercizo.dll
+c:\Users\luong\progetti\eserciziodiSimona\esercizo\obj\Debug\net8.0\esercizo.pdb
+c:\Users\luong\progetti\eserciziodiSimona\esercizo\obj\Debug\net8.0\esercizo.genruntimeconfig.cache
+c:\Users\luong\progetti\eserciziodiSimona\esercizo\obj\Debug\net8.0\ref\esercizo.dll
